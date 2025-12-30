@@ -5,7 +5,7 @@
 Achieves 59% LeetCode accuracy & MAE 153 Codeforces ratings – outperforming GPT-4o (37%) with interpretable LightGBM
 
 ---
-## 🚀 The Problem We Solved
+## 🚀 The Problem Solved
 
 **Programming contest platforms like LeetCode and Codeforces label problems as Easy/Medium/Hard or assign numeric ratings (800-3500). However:**
 
