@@ -147,6 +147,14 @@ Algorithm tags strongly correlate with difficulty
 
 ---
 
+## Final Interface Example
+
+<video src="https://github.com/user-attachments/assets/81179dd0-c1e1-4108-a491-e645d67c3a3d" controls width="720">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🎯 Future Enhancements
 
 - Transformer Features: BERT/CodeBERT embeddings for statements  
